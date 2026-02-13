@@ -1,0 +1,16 @@
+{
+  "name": "clawdice",
+  "version": "0.1.0",
+  "description": "Provably fair Lightning dice for OpenClaw agents",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "sql.js": "^1.11.0"
+  }
+}

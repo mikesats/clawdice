@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Database
+*.db
+
+# Environment
+.env
+.env.local
+.env.*
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
