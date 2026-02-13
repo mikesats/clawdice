@@ -1,4 +1,4 @@
-# CLAUDE.md
+# Clawdice.md
 
 ## Project Overview
 
